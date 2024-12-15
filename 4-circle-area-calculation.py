@@ -1,5 +1,4 @@
 import sys
-
 import numpy as np
 
 def circle_area(radius):
